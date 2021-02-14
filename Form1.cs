@@ -61,7 +61,7 @@ namespace _1.Nasledovanie
             //label5.Text = man.Money().ToString();
             label5.Text += "Name: " + man.name + ", type:" + man.GetType().Name + ", money: " + man.Money().ToString();
             if (man is student)
-            {
+            {// test for github
                 student man2 = (student) man;
                 label5.Text += ", score: " + man2.score.ToString();
             }
