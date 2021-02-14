@@ -1,0 +1,10 @@
+E:\study\4й семестр\ООП\1. Nasledovanie\bin\Debug\_1.Nasledovanie.exe.config
+E:\study\4й семестр\ООП\1. Nasledovanie\bin\Debug\_1.Nasledovanie.exe
+E:\study\4й семестр\ООП\1. Nasledovanie\bin\Debug\_1.Nasledovanie.pdb
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\1. Nasledovanie.csprojAssemblyReference.cache
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\_1.Nasledovanie.Form1.resources
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\_1.Nasledovanie.Properties.Resources.resources
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\1. Nasledovanie.csproj.GenerateResource.cache
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\1. Nasledovanie.csproj.CoreCompileInputs.cache
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\_1.Nasledovanie.exe
+E:\study\4й семестр\ООП\1. Nasledovanie\obj\Debug\_1.Nasledovanie.pdb
